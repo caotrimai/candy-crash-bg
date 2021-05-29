@@ -22,11 +22,7 @@ declare module 'candy-crash-bg' {
         }
       </style>
 
-      <script src="./dist/canvas.js"></script>
-      <script src="./dist/extend.js"></script>
-      <script src="./dist/self.js"></script>
-      <script src="./dist/xml.js"></script>
-      <script src="./dist/paper-full.min.js"></script>
+      <script src="./dist/paper-full.js"></script>
       <script type="text/paperscript" canvas="canvas">
         var colors = ['#f1ccd4', '#c8a0a9', '#ddeff9', '#878786', '#464544', '#181c5d', '#bc6699'];
 
